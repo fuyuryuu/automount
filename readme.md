@@ -1,4 +1,4 @@
-This script automates the mounting and unmounting of ISO files for programs (such as many old games) that require a CD to be present.
+This script automates the mounting and unmounting of ISO files for programs (such as many old games) that require a CD to be present, before launching said program.
 
 
 INSTALLATION
